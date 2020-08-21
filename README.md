@@ -1,6 +1,6 @@
 # Chess-Engineering
 
-<img src=“https://github.com/bwadde01/Chess-Engineering/blob/master/ForkImages958.jpg”>
+![alt text](https://github.com/bwadde01/Chess-Engineering/blob/master/ForkImages958.jpg)
 
 Being both a chess and ML/data science enthusiast, naturally I am interested in seeing the intersection between the two. In this repository I explore what data I could work with in this area, initially with the intention of creating a chess tactic identifier using computer vision (specifically for identifying scenarios where a player could fork an opponent's pieces). I quickly discovered that this would not be feasible, as the data seemed to be interpreted as just noise by the CNN model (so no learning was happening).
 
